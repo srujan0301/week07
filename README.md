@@ -74,3 +74,4 @@ After triggering the pipeline, you can monitor its progress and results:
 4. Inspect logs: Click on any step within a job to view its detailed logs, including test results, linting output, and Docker build/push messages.
 
 5. Successful completion: A green checkmark next to the workflow run indicates all jobs passed successfully, meaning your code is tested, linted, and images are pushed to ACR.
+Trigger CI on 2025-08-30T22:15:49
